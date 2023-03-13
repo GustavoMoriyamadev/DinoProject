@@ -76,6 +76,84 @@ podem ter 3 spawns de raptor, para eles virem de diversas direções, menos na p
 Após finalizar todas as waves, a área verde irá aparecer no caminho entre as florestas. 
 
 
+---------------------------------------------------------------------------------------------------------
+
+
+Fase 3 
+
+
+Cenário: Nesta fase o foco do mapa serão as arvores, eles estarão cercados por arvores altas e seguindo a trilha que vai subindo a montanha, a trilha ela será de forma bem natural, com diversos pedaços de galhos pelo chão. Ex.: https://img.freepik.com/fotos-premium/trilha-no-meio-da-floresta_622465-240.jpg?w=2000
+
+Se possivel, seria bacana desenhar no chão dessa trilha uma espécie de rastro deixada pelos dinossauros, caso não consigamos desenhar as patas, isso pode ser feito com galhos quebrados, ou marcas entre as folhagens 
+
+Iluminação: O dia vai estar bem claro ainda, a iluminação deve indicar por volta de meio dia, porém como vão estar cercados por arvores, a iluminação só vai entrar pelas frestas das folhagens. https://img.freepik.com/fotos-premium/floresta-de-faia-com-o-sol-na-copa-das-arvores_362480-129.jpg?w=360
+
+Métricas da Fase: 
+Como a ideia é ser uma trilha a arena deve ser programada como 8x10, dando uma sensação menor nos cantos onde estará completamente ocupado por arvores. 
+Alguns elementos podem ser expostos na trilha para deixar o ambiente mais natural, como parte de uma árvore caída no caminho (5x1), fazendo com que os players tenham que "pular" a arvore. Uma pedra grande(2x2) pode ser colocada também para ser usada como um cover. 
+
+
+Jogo: 
+
+Os jogadores irão chegar nesta área e já logo de cara irão ver as marcas no chão que indica que houve movimentação de dino's nessa área, então poucos segundos após a chegada deles já começam os spawns de raptors 
+
+15 segundos de fase - 4 raptors (um de casa spawn, que serão colocados dois de cada lado da arena, na parte menor, atrás das arvores) 
+30 Segundos de fase - 10 raptors 
+1 minuto de fase - 15 raptors 
+1 minuto de fase - 15 raptors 
+1 minuto e 30 segundos de fase - 20 raptors 
+2 minutos de fase - 25 raptors 
+
+
+Após finalizar todas as waves, a área verde irá aparecer no final da trilha indicando o caminho para a próxima fase 
+
+-----------------------------------------------------------------------------------------------------------------
+
+Fase 4 
+
+Cenário opção 1 - Nesta opção a ideia seria ter que nos livrar de programar um elevador subindo. 
+Os jogadores já iriam aparecer em cima da torre de comando, essa torre teria uma mesa e parecida com a da base, um computador e um mapa (Atualizando mostrando onde eles estão no mapa e mostrando pontos de referencia por onde eles passaram e ainda vão passar). 
+Na parte superior dessa torre vai ter um satélite, sendo assim essa é a torre de comunicação que permite que os soldados anteriores se comunicassem entre si
+Da parte de cima eles conseguem ter um vislumbre da ilha como um todo, pode fazer com fog para facilitar o nosso trabalho, mas seria interessante se alguns dos pontos de referencia que estarão no mapa pudessem ser percebidos de cima da torre. 
+
+Opção 2 - Os jogadores aparecem na parte inferior da torre e pegam uma espécie de elevador improvidado de madeira para subir na torre. Lá em cima é tudo igual na opção anterior. 
+Exemplo de torre: https://www.buyandhold.com.br/wp-content/uploads/2015/09/Torres-de-Observação.jpg
+
+Iluminação: 
+Aqui o jogo já está com uma iluminação aparentando o entardecer, por volta das 14/15 horas 
+
+Métricas da fase:
+opção 1: A parte interna é pequena, ocupando um espaço de 3x3 e a parte externa ocupando um espaço de 5x5 o restante da área ficará nas bordas que é um espaço livre para evitar que os players batam nas paredes enquanto atiram para baixo nos dinossauros 
+
+opção 2: A parte interna é pequena, ocupando um espaço de 3x3 e a parte externa da torre terá um espaço de 4x4. E a parte inferior terá uma área de 3x3 onde o elevador irá leva-los para cima da torre.
+
+
+Jogo: 
+Na opção 1 ou na opção 2 os Dinos virão da parte externa da torre, utilizando a animação de escalada eles terão que chegar nos jogadores subindo a torre, Cabe aos jogadores se defenderem da melhor forma possível enquanto eles escalam. 
+
+no primeiro minuto de jogo, todos os spawns serão feitos por apenas um lado da torre, dando a chance dos jogadores focarem todos em um lado só. 
+Após o 1 minutos de jogo os dinos começarão a vir de todas as direções. em quantidade menor já que os jogadores vão ter que se dividir. 
+
+de 20 segundos a 1 minuto - Spawn apenas pelo norte.
+20 segundos - spawn de 5 
+40 segundos - spawn de 10
+Após 1 minuto - Spawn de 12 (3 de cada lado)
+1 minuto e 30  - Spawn de 16 (4 de cada Lado 
+2 minutos - Spawn de 20 (5 de cada lado)
+2 minutos e 30 - Spawn de 32 (8 de cada lado)
+
+Programar 1 spawn em cada direção do mapa, totalizando 4 spawns. 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Fase 5 https://www.viagensecaminhos.com/wp-content/uploads/2017/01/vale-dos-dinossauros-canela.jpg
+
+
+
 
 
 
